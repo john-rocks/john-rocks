@@ -32,7 +32,6 @@ I'm **John Rocks**, a passionate Data Analyst with an array of skills in SQL, MS
 
 <!--
 **john-rocks/john-rocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 Here are some ideas to get you started:
 
@@ -44,3 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
