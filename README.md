@@ -1,6 +1,6 @@
 ### Hi there 👋 Introducing myself,
 
-<img width="2000" alt="Banner" src="https://raw.githubusercontent.com/john-rocks/john-rocks/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png">
+<img width="2000" alt="Banner" src="https://github.com/john-rocks/john-rocks/blob/main/Linkedin%20Banner.png">
 
 I'm **John Rocks**, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Power BI, Tableau, and R.<br>
 
@@ -27,7 +27,7 @@ I'm **John Rocks**, a passionate Data Analyst with an array of skills in SQL, MS
 
 <h3>🕸️ Let's Connect</h3>
 <ul>
-<li><a href="https://[www.linkedin.com/in/your-linkedin-id](http://www.linkedin.com/in/john-rocks-)">LinkedIn | John Rocks</a></li>
+<li><a href="https://http://www.linkedin.com/in/john-rocks-">LinkedIn | John Rocks</a></li>
 </ul>
 
 <!--
@@ -44,4 +44,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
