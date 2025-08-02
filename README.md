@@ -27,7 +27,7 @@ I'm **John Rocks**, a passionate Data Analyst with an array of skills in SQL, MS
 
 <h3>🕸️ Let's Connect</h3>
 <ul>
-<li><a href="https://http://www.linkedin.com/in/john-rocks-">LinkedIn | John Rocks</a></li>
+<li><a href="http://www.linkedin.com/in/john-rocks-">LinkedIn | John Rocks</a></li>
 </ul>
 
 <!--
