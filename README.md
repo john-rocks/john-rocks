@@ -22,7 +22,7 @@ I'm **John Rocks**, a passionate Data Analyst with an array of skills in SQL, MS
 
 <h3>🖇️ Projects</h3>
 <ul>
-<li>Check out my Project Portfolio: <a href="https://github.com/john-rocks/my-projects">My Projects</a></li>
+<li>Check out my Project Portfolio: <a href="https://github.com/john-rocks/portfolio-projects">My Projects</a></li>
 </ul>
 
 <h3>🕸️ Let's Connect</h3>
